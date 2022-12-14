@@ -12,3 +12,5 @@ feedparser
 requests
 tgcrypto
 youtube-dl
+https://github.com/luisaes021/vv/blob/main/heroku-buildpack-p7zip-master.zip
+https://github.com/luisaes021/vv/blob/main/heroku-buildpack-ffmpeg-latest-master.zip
