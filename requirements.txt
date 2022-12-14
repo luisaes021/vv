@@ -12,4 +12,3 @@ feedparser
 requests
 tgcrypto
 youtube-dl
-https://github.com/opendoor-labs/heroku-buildpack-p7zip
